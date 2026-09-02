@@ -17,14 +17,14 @@ body {
     text-align: center;
 }
 
-.hello kitty-card {
+.HelloKitty.png.jpg-card {
     width: 400px;
     height: 400px;
     margin: auto;
     overflow: hidden;
 }
 
-.hello kitty-card img {
+.HelloKitty.png.jpg-card img {
     width: 100%;
     height: 100%;
     object-fit: cover;
